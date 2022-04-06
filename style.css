@@ -28,7 +28,7 @@ body{
     margin:auto 10px
 }
 @media (max-width: 420px) {
-    .yt-logo{
+    #main-yt-logo{
         content: url(img/yt-small-logo.png);
         width: 25px;
         margin: 0;
